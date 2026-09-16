@@ -16,7 +16,7 @@
     }
     .container {
         margin-top: 30px;
-        background: rgba(255, 255, 255, 0.95); /* A clean, slightly translucent white card for your table */
+        background: rgba(255, 255, 255, 0.95); 
         padding: 30px;
         border-radius: 10px;
         box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
