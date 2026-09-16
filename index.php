@@ -7,12 +7,12 @@
 
 <style>
     body {
-        background-image: url('1.jpg'); /* Change to your actual file name */
-        background-size: cover;          /* Stretches and scales the image to fill the whole screen */
-        background-position: center;     /* Keeps the center of the image focused */
-        background-repeat: no-repeat;    /* Prevents the image from repeating */
-        background-attachment: fixed;    /* Locks the background in place when scrolling */
-        min-height: 100vh;               /* Forces the body to take up the full screen height */
+        background-image: url('1.jpg'); 
+        background-size: cover;          
+        background-position: center;     
+        background-repeat: no-repeat;    
+        background-attachment: fixed;    
+        min-height: 100vh;               
     }
     .container {
         margin-top: 30px;
@@ -21,7 +21,6 @@
         border-radius: 10px;
         box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
     }
-    /* Mountain-Matched Forest-to-Sage Header Banner Styling */
     .header-banner {
         background: linear-gradient(135deg, #1b4332, #40916c);
         color: white;
@@ -30,7 +29,6 @@
         margin-bottom: 25px;
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
     }
-    /* Custom button override to match the moody dark forest green */
     .btn-mountain {
         background-color: #2d6a4f;
         border-color: #2d6a4f;
